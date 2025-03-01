@@ -19,7 +19,7 @@ opencv-python - for computer vision functionalities
 Clone the project
 
 ```bash
-git clone https://github.com/your-username/Face-Detection-Using-OpenCV.git
+git clone https://github.com/viso27/Face-Detection-Using-OpenCV.git
 
 ```
 
